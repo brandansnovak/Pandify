@@ -89,12 +89,12 @@ header.fixed-header:hover {
 }
 
 header .logo img {
-	width:600px;
+	width:50%;
 	transition: all linear .1s
 }
 
 header.fixed-header .logo img {
-	width:100px;
+	width:10%;
 	opacity: 100%!important;
 }
 
